@@ -1,0 +1,1 @@
+pip install async-generator attrs certifi cffi charset-normalizer colorama exceptiongroup h11 idna outcome packaging pathlib pycparser pyparsing PySocks python-dotenv requests selenium sniffio   sortedcontainers tqdm trio trio-websocket urllib3 webdriver-manager wsproto            
